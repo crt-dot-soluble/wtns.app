@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "wtns.lib", "wtns.lib\wtns.lib.csproj", "{42558B35-E8D1-4E2F-8387-A43CF36B74B4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "wtns.cli", "wtns.cli\wtns.cli.csproj", "{A9346CCD-597A-4958-9F16-3B6204393878}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "wtns.examples", "examples\examples.csproj", "{42E75E6C-AAA3-4ED6-BA4F-80F86178DBC0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{42558B35-E8D1-4E2F-8387-A43CF36B74B4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{42558B35-E8D1-4E2F-8387-A43CF36B74B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{42558B35-E8D1-4E2F-8387-A43CF36B74B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{42558B35-E8D1-4E2F-8387-A43CF36B74B4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A9346CCD-597A-4958-9F16-3B6204393878}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A9346CCD-597A-4958-9F16-3B6204393878}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A9346CCD-597A-4958-9F16-3B6204393878}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A9346CCD-597A-4958-9F16-3B6204393878}.Release|Any CPU.Build.0 = Release|Any CPU
+		{42E75E6C-AAA3-4ED6-BA4F-80F86178DBC0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{42E75E6C-AAA3-4ED6-BA4F-80F86178DBC0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{42E75E6C-AAA3-4ED6-BA4F-80F86178DBC0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{42E75E6C-AAA3-4ED6-BA4F-80F86178DBC0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

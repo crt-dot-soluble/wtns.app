@@ -1,0 +1,11 @@
+# ignore intermediate file directories
+**/obj/
+
+# ignore compiled binary directories
+**/bin/
+
+# ignore log directories
+**/logs/
+
+# ignore docfx site files
+docfx/
