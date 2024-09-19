@@ -2,6 +2,14 @@
 # This script will install docfx dependencies and build the documentation
 # Set .Net project location to `wtns.lib`
 
+# Working example:
+# Name (mysite): wtns
+# Generate .NET API documentation? [y/n] (y): y
+# .NET projects location (src): wtns.lib
+# Markdown docs location (docs): docs
+# Enable site search? [y/n] (y): y
+# Enable PDF? [y/n] (y): y
+
 # Install dependencies
 echo --- Attempting to install docfx dependencies
 sudo apt-get install \
